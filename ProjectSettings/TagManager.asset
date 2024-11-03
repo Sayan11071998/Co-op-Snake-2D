@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Food
   - Obstacle
+  - Head
+  - Poison
+  - ScoreUp
+  - SpeedUp
+  - Fruit
+  - Shield
+  - Body
   layers:
   - Default
   - TransparentFX
